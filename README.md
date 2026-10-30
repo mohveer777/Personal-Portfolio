@@ -4,6 +4,8 @@
 
 ## What it is
 
+Hello
+
 [In 2 to 3 sentences (or more), explain what your portfolio is for, who it is for, and what visitors will find. Mention real sections or projects from your SPEC.md.]
 
 ## Live site
